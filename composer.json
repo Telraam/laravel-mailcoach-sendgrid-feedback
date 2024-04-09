@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-mailcoach-sendgrid-feedback",
+    "name": "telraam/laravel-mailcoach-sendgrid-feedback",
     "description": "Process feedback for email campaigns sent using Sendgrid",
     "keywords": [
         "spatie",
